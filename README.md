@@ -3,7 +3,7 @@
 
 The Skyrocketing of housing prices over the last decade in China’s megacities have generated broad concerns. The idea behind this project is to have a better understanding on how the prices changed during the past decade and the reason behind it.
 
-### <a href="https://www.kaggle.com/code/eraw0x/house-prices-in-beijing-eda-arimas">The dataset</a>
+### <a href="https://www.kaggle.com/code/eraw0x/house-prices-in-beijing-eda-arima">The dataset</a>
 <center>
 <table style="align: center; text-align: justify;line-height:200%;font-family:vazir;font-size:medium">
   <tr>
